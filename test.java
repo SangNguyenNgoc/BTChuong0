@@ -5,5 +5,6 @@ public class test {
         System.out.println("hello");
         System.out.println("Dang hoc git");
         System.out.println("Tiep tuc cap nhat len git");
+        System.out.println("thu cau lenh git status");
     }
 }
